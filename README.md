@@ -147,12 +147,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-### ⭐ If you found this project helpful, please consider giving it a star on GitHub!
 
-```bash
-git add .
-git commit -m "Updated README with AI-powered sentiment dashboard details"
-git push -u origin main
 ```
 
 ---
